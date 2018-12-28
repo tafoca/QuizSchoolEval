@@ -1,0 +1,161 @@
+@CHARSET "UTF-8";
+
+.obligatoire
+{
+	color:red;
+	
+}
+.dimLong
+{
+	width: 100%;
+	
+}
+
+
+
+.obligatoireGreen
+{
+	color:#278000;
+	
+}
+
+.obligatoireY
+{
+	color:#ffff00;
+	
+}
+
+.obligatoireDIO
+{
+	color:#ffff00;
+	
+	height: 25px; 
+	width: 80%; 
+	font-size: 20px; 
+	font-family: Tahoma, Arial, Helvetica, Sans-Serif; 
+	font-weight: normal;"
+	
+}
+
+.obligatoireG
+{
+	color:#ffa500;
+	
+}
+
+.obligatoireQ
+{
+	color:#008000;
+	
+}
+
+.dio
+{
+	color:#1e90ff;
+	height: 50px; 
+	width: 50%; 
+	font-size: 32px; 
+	font-family: Tahoma, Arial, Helvetica, Sans-Serif; 
+	font-weight: normal;"
+	
+}
+
+.dio1
+{
+	color:#1e90ff;
+	height: 25px; 
+	width: 80%; 
+	font-size: 16px; 
+	font-family: Tahoma, Arial, Helvetica, Sans-Serif; 
+	font-weight: normal;"
+	
+}
+
+.dio2
+{
+	color:#1e90ff;
+	height: 35px; 
+	width: 50%; 
+	font-size: 16px; 
+	font-family: Tahoma, Arial, Helvetica, Sans-Serif; 
+	font-weight: normal;"
+	
+}
+
+
+.diodany
+{
+	color:#ffa500;
+	height: 50px; 
+	width: 75%; 
+	font-size: 20px; 
+	font-family: Tahoma, Arial, Helvetica, Sans-Serif; 
+	font-weight: normal;"
+	
+}
+
+.diodif
+{
+	color:#ffa500;
+	height: 25px; 
+	width: 95%; 
+	font-size: 20px; 
+	font-family: Tahoma, Arial, Helvetica, Sans-Serif; 
+	font-weight: normal;"
+	
+}
+
+.dioSelect
+{
+	width: 100%; 
+	height: 45px; 
+	padding: none !important;
+	
+	
+}
+.dioQuestion
+{
+
+	height: 25px; 
+	width: 40%; 
+	font-size: 15px; 
+	font-family: Tahoma, Arial, Helvetica, Sans-Serif; 
+	font-weight: normal;"	
+	
+	
+}
+
+.lidio
+{
+ font-size: 18px;
+   font-family: Tahoma, Arial, Helvetica, Sans-Serif;
+   font-weight: normal;
+   font-style: normal;
+   line-height: 150%;
+   text-decoration: none;
+   display: inline-block;
+   height: 30px;
+   width: 160px;
+   background: #ffffff;
+   text-align: center;
+   margin-left: 150px;
+   margin-bottom: 10px;
+   
+}
+.page
+{	color:#ffa500;
+	 font-size: 35px;
+   font-family: Tahoma, Arial, Helvetica, Sans-Serif;
+   font-weight: normal;
+   font-style: normal;
+   line-height: 150%;
+   text-decoration: none;
+   display: inline-block;
+   height: 40px;
+   width: 40px;
+   background: #ffffff;
+   text-align: center;
+   
+	
+	
+}
