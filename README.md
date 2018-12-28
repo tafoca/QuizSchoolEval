@@ -12,6 +12,8 @@
 * Included with the Spring Tool Suite 3 is the developer edition of Pivotal tc Server, the drop-in replacement for Apache Tomcat that's optimized for Spring. With its Spring Insight console, tc Server Developer Edition provides a graphical real-time view of application performance metrics that lets developers identify and diagnose problems from their desktops.
 
 * The Spring Tool Suite 3 supports application targeting to local, virtual and cloud-based servers. It is freely available for development and internal business operations use with no time limits, fully open-source and licensed under the terms of the Eclipse Public License.
+* Rendez-vous sur le [lien](https://spring.io/tools3/sts) pour l'outil !
+
 
 ## Goal
 
